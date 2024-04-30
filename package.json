@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/canopas/strapi-plugin-tagsinput.git"
+    "url": "git+https://github.com/RattaponDev/selectinput.git"
   },
   "dependencies": {
     "@babel/preset-react": "^7.23.3",
