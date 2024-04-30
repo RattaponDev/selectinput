@@ -2,7 +2,7 @@
 
 module.exports = ({ strapi }) => {
   strapi.customFields.register({
-    name: "select",
+    name: "tags",
     plugin: "selectinput",
     type: "string",
   });
