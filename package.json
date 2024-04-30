@@ -1,12 +1,12 @@
 {
-  "name": "strapi-plugin-tagsinput",
+  "name": "strapi-plugin-selectinput",
   "version": "1.0.4",
-  "description": "Tagsinput plugin for your strapi project",
+  "description": "Selectinput plugin for your strapi project",
   "strapi": {
-    "name": "tagsinput",
-    "description": "Tagsinput plugin for your strapi project",
+    "name": "selectinput",
+    "description": "Selectinput plugin for your strapi project",
     "kind": "plugin",
-    "displayName": "Tagsinput"
+    "displayName": "Selectinput"
   },
   "repository": {
     "type": "git",
@@ -51,7 +51,7 @@
   "keywords": [
     "strapi",
     "plugin",
-    "tagsinput"
+    "selectinput"
   ],
   "bugs": {
     "url": "https://github.com/canopas/strapi-plugin-tagsinput/issues"
